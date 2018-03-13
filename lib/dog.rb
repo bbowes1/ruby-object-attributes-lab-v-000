@@ -7,7 +7,8 @@ class Dog
   end
   
   end
- 
+ def name
+    @name
   
  
  def attribute(breed)
