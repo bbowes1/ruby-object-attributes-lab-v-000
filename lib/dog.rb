@@ -13,9 +13,7 @@ end
  
   
  
- def attribute(breed)
-    @breed = breed
-  end
+ def 
  
   def breed
     @breed
