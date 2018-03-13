@@ -13,7 +13,7 @@ end
  
   
  
- def def breed=(breed)
+ def breed= (breed)
     @breed = breed
   end
  
